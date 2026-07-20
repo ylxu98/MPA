@@ -1,0 +1,188 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\PyProgramm\\MPA_Experiment\\mpa-evm-audit\\contracts\\BatchAudit.sol": {
+      "lastModificationDate": 1784465782121,
+      "contentHash": "2029cc2e5975b31c37e624268a5e273a",
+      "sourceName": "contracts/BatchAudit.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./SystemParam.sol",
+        "./FileRootStorage.sol"
+      ],
+      "versionPragmas": [
+        "0.8.20"
+      ],
+      "artifacts": [
+        "BatchAudit"
+      ]
+    },
+    "D:\\PyProgramm\\MPA_Experiment\\mpa-evm-audit\\contracts\\SystemParam.sol": {
+      "lastModificationDate": 1784465731683,
+      "contentHash": "cbfcc0a02f14588af92ee165af858df0",
+      "sourceName": "contracts/SystemParam.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.20"
+      ],
+      "artifacts": [
+        "SystemParam"
+      ]
+    },
+    "D:\\PyProgramm\\MPA_Experiment\\mpa-evm-audit\\contracts\\FileRootStorage.sol": {
+      "lastModificationDate": 1784457444444,
+      "contentHash": "692712769fc0fa14e01279eab0cd859e",
+      "sourceName": "contracts/FileRootStorage.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.20"
+      ],
+      "artifacts": [
+        "FileRootStorage"
+      ]
+    },
+    "D:\\PyProgramm\\MPA_Experiment\\mpa-evm-audit\\contracts\\mocks\\BLSPairingShim.sol": {
+      "lastModificationDate": 1784465745635,
+      "contentHash": "436bc3a1fb8d22e9a4adcee435350281",
+      "sourceName": "contracts/mocks/BLSPairingShim.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.20"
+      ],
+      "artifacts": [
+        "BLSPairingShim"
+      ]
+    },
+    "D:\\PyProgramm\\MPA_Experiment\\mpa-evm-audit\\contracts\\RandAO.sol": {
+      "lastModificationDate": 1784465756277,
+      "contentHash": "0affe4121d9d8d6c5e0843f16bda8a8c",
+      "sourceName": "contracts/RandAO.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.20"
+      ],
+      "artifacts": [
+        "RandAO"
+      ]
+    }
+  }
+}
